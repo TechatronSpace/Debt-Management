@@ -3,6 +3,13 @@
     <h1>Debt Management</h1>
   </div>
   <body>
+    <div>
+<div class="card">
+  <div class="card-body">
+    This is some text within a card body.
+  </div>
+</div>
+  </div>
 
 Debt management involves strategies and
 practices for handling debt effectively to
